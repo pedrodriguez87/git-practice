@@ -4,6 +4,6 @@ _________________
 Soy estudiante de BTS
 __________
 
-En Barcelona
 El curso durara 1 año.
 Y terminara en Julio del 2019.
+There is another file notes.txt where I write notes.
